@@ -1,0 +1,16 @@
+{
+  "name": "pf1e-styler",
+  "title": "Pathfinder 1e Styler",
+  "description": "A sheet styler for Pathfinder 1e (current version).",
+  "version": "0.1.0",
+  "minimumCoreVersion": "0.7.9",
+  "compatibleCoreVersion": "0.7.9",
+"systems": ["pf1"],
+  "author": "Kronos(Kronos#5516)",
+"url":"https://github.com/King-Kronos/pf1e-styler",
+"manifest": "https://github.com/King-Kronos/pf1e-styler/blob/main/module.json",
+"download":"https://github.com/King-Kronos/pf1e-styler/archive/main.zip",
+"readme":"https://github.com/King-Kronos/pf1e-styler/blob/main/README.md",
+"changelog":"https://github.com/King-Kronos/pf1e-styler/blob/main/changelog.md",
+"styles": ["./fonts.css"]
+}
