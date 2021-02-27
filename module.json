@@ -12,5 +12,6 @@
 "download":"https://github.com/King-Kronos/pf1e-styler/archive/main.zip",
 "readme":"https://github.com/King-Kronos/pf1e-styler/blob/main/README.md",
 "changelog":"https://github.com/King-Kronos/pf1e-styler/blob/main/changelog.md",
+"esmodules": ["settings.js"],
 "styles": ["./fonts.css"]
 }
